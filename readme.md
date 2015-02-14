@@ -1,4 +1,5 @@
 * trees.py - Testing two algorithms of searching least common ancestor
+
     Usage:
     > ./trees.py "number_of_elements"
 
@@ -7,6 +8,7 @@
     Calculates number of loops executed in each case.
 
 * knight.py - The Knight Tour problem solution using Warnsdorff's heuristic rule
+
     Usage:
     > ./knight.py "start_cell"
 
